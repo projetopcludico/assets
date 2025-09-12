@@ -25,7 +25,7 @@
 
 <h3>Acertos</h3>
 <ul>
-  <li>funny music orchestra wav - <a href="/sounds/Background-musics/funny-music-orchestra-wav-.mp3">Arquivo</a></li>
-  <li>NONCOPYRIGHT MUSIC PIANOS - <a href="/sounds/Background-musics/noncopyright-music-pianos.mp3">Arquivo</a></li>
-  <li>Space Cloud - <a href="/sounds/Background-musics/space-cloud.mp3">Arquivo</a></li>
+  <li>funny music orchestra wav - <a href="/sounds/Background-musics/">Arquivo</a></li>
+  <li>NONCOPYRIGHT MUSIC PIANOS - <a href="/sounds/Background-musics/">Arquivo</a></li>
+  <li>Space Cloud - <a href="/sounds/Background-musics/">Arquivo</a></li>
 </ul>

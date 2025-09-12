@@ -11,21 +11,21 @@
 
 <h3>Acertos</h3>
 <ul>
-  <li>The Correct Answer 33 - <a href="/sounds/Hits/">Arquivo</a></li>
-  <li>Arcade UI 18 - <a href="/sounds/Hits/">Arquivo</a></li>
-  <li>Correct - <a href="/sounds/Hits/">Arquivo</a></li>
+  <li><a href="https://pixabay.com/sound-effects/the-correct-answer-33-183620/">The Correct Answer 33</a> - <a href="/sounds/Hits/">Arquivo</a></li>
+  <li><a href="https://pixabay.com/sound-effects/arcade-ui-18-229517/">Arcade UI 18</a> - <a href="/sounds/Hits/">Arquivo</a></li>
+  <li><a href="https://pixabay.com/sound-effects/correct-6033/">Correct</a> - <a href="/sounds/Hits/">Arquivo</a></li>
 </ul>
 
 <h3>Erros</h3>
 <ul>
-  <li>Error 04 - <a href="/sounds/Errors/">Arquivo</a></li>
-  <li>Error 08 - <a href="/sounds/Errors/">Arquivo</a></li>
-  <li>fail - <a href="/sounds/Errors/">Arquivo</a></li>
+  <li><a href="https://pixabay.com/sound-effects/error-04-199275/">Error 04</a> - <a href="/sounds/Errors/">Arquivo</a></li>
+  <li><a href="https://pixabay.com/sound-effects/error-08-206492/">Error 08</a> - <a href="/sounds/Errors/">Arquivo</a></li>
+  <li><a href="https://pixabay.com/sound-effects/fail-234710/">fail</a> - <a href="/sounds/Errors/">Arquivo</a></li>
 </ul>
 
-<h3>Acertos</h3>
+<h3>Músicas de Fundo</h3>
 <ul>
-  <li>funny music orchestra wav - <a href="/sounds/Background-musics/">Arquivo</a></li>
-  <li>NONCOPYRIGHT MUSIC PIANOS - <a href="/sounds/Background-musics/">Arquivo</a></li>
-  <li>Space Cloud - <a href="/sounds/Background-musics/">Arquivo</a></li>
+  <li><a href="https://pixabay.com/sound-effects/018136-funny-music-orchestra-wav-54828/">funny music orchestra wav</a> - <a href="/sounds/Background-musics/">Arquivo</a></li>
+  <li><a href="https://pixabay.com/sound-effects/noncopyright-music-pianos-295174/">NONCOPYRIGHT MUSIC PIANOS</a> - <a href="/sounds/Background-musics/">Arquivo</a></li>
+  <li><a href="https://pixabay.com/sound-effects/space-cloud-333647/">Space Cloud</a> - <a href="/sounds/Background-musics/">Arquivo</a></li>
 </ul>

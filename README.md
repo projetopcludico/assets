@@ -10,7 +10,7 @@
 <a href="https://pixabay.com/sound-effects/">Site usado para baixar os sons</a>
 <h3>Acertos</h3>
 <ul>
-  <li>The Correct Answer 33 - <a>Arquivo</a></li>
-  <li>Arcade UI 18 - <a>Arquivo</a></li>
-  <li>Correct - <a>Arquivo</a></li>
+  <li>The Correct Answer 33 - <a href="/sounds/Hits/the-correct-answer-33.mp3">Arquivo</a></li>
+  <li>Arcade UI 18 - <a href="/sounds/Hits/arcade-ui-18.mp3">Arquivo</a></li>
+  <li>Correct - <a href="/sounds/Hits/correct.mp3">Arquivo</a></li>
 </ul>

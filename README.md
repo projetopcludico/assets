@@ -1,11 +1,11 @@
 # 🎨 Assets
 
 ## 🖼️ Fonticons Selecionados
-| Biblioteca | Descrição | Site |
-|------------|-----------|------|
-| **Pictogrammers** | - Possui mais de 7000 tipos de ícones<br> - Totalmente gratuito<br> - Possui versão de ícones diferentes, como os Icons Light<br> - Os ícones podem ser usados com classes no próprio HTML<br> - Estilo limpo<br> - Ferramenta de integração -> NPM<br> - Documentação fácil e direta no site | [pictogrammers.com](https://pictogrammers.com/) |
-| **Heroicons** | - Possui mais ou menos 200 ícones<br> - Totalmente gratuito<br> - Possui 4 versões de ícones (outline, solid, mini, micro)<br> - Os ícones são importados como componentes<br> - Estilo bem limpo, criados pela equipe do Tailwind Css<br> - Ferramentas de integração -> NPM<br> - Documentação no próprio Github | [heroicons.com](https://heroicons.com/) |
-| **Feathericons** | - Possui mais ou menos 300 ícones<br> - Totalmente gratuito<br> - Possui uma ferramenta própria para alterar a grossura dos ícones<br> - Os ícones são importados como SVG<br> - Estilo limpo<br> - Tem como usar o npm de uma forma mais complexa, porém é uma opção<br> - Documentação no próprio Github | [feathericons.com](https://feathericons.com/) |
+| Biblioteca | Descrição | Site | Escolha |
+|------------|-----------|------|---------|
+| **Pictogrammers** | - Possui mais de 7000 tipos de ícones<br> - Totalmente gratuito<br> - Possui versão de ícones diferentes, como os Icons Light<br> - Os ícones podem ser usados com classes no próprio HTML<br> - Estilo limpo<br> - Ferramenta de integração -> NPM<br> - Documentação fácil e direta no site | [pictogrammers.com](https://pictogrammers.com/) | ✅ |
+| **Heroicons** | - Possui mais ou menos 200 ícones<br> - Totalmente gratuito<br> - Possui 4 versões de ícones (outline, solid, mini, micro)<br> - Os ícones são importados como componentes<br> - Estilo bem limpo, criados pela equipe do Tailwind Css<br> - Ferramentas de integração -> NPM<br> - Documentação no próprio Github | [heroicons.com](https://heroicons.com/) | ❌ |
+| **Feathericons** | - Possui mais ou menos 300 ícones<br> - Totalmente gratuito<br> - Possui uma ferramenta própria para alterar a grossura dos ícones<br> - Os ícones são importados como SVG<br> - Estilo limpo<br> - Tem como usar o npm de uma forma mais complexa, porém é uma opção<br> - Documentação no próprio Github | [feathericons.com](https://feathericons.com/) | ❌ |
 
 ---
 
@@ -31,9 +31,9 @@ Fonte principal: [Pixabay Sound Effects](https://pixabay.com/sound-effects/)
 
 ## ✨🌀 Animações
 
-| Biblioteca  | Descrição | Site |
-|-------------|-----------|------|
-| **Anime.js** | - Diversos tipos de animação<br>- Biblioteca avançada<br>- Compatível com Vue (via npm)<br>- Rápida, sem exigir muito do sistema<br>- Documentação completa e direta | [animejs.com](https://animejs.com/) |
-| **Motion.js** | - Muito completa<br>- Compatível com Vue (via npm)<br>- Contém as animações requisitadas<br>- Grande diversidade<br>- Simples de usar<br>- Possui parte paga (listado apenas plano gratuito)<br>- Documentação completa e direta | [motion.dev](https://motion.dev/) |
-| **Animate.css** | - Provável uso<br>- Compatível com Vue (via npm)<br>- Animações de estilização interessantes<br>- Baseada em **CSS**, não JS<br>- Pode ser controlada via lógica JS aplicando classes<br>- Documentação simples e direta | [animate.style](https://animate.style/) |
+| Biblioteca  | Descrição | Site | Escolha |
+|-------------|-----------|------|---------|
+| **Anime.js** | - Diversos tipos de animação<br>- Biblioteca avançada<br>- Compatível com Vue (via npm)<br>- Rápida, sem exigir muito do sistema<br>- Documentação completa e direta | [animejs.com](https://animejs.com/) | ❌ |
+| **Motion.js** | - Muito completa<br>- Compatível com Vue (via npm)<br>- Contém as animações requisitadas<br>- Grande diversidade<br>- Simples de usar<br>- Possui parte paga (listado apenas plano gratuito)<br>- Documentação completa e direta | [motion.dev](https://motion.dev/) | ✅ |
+| **Animate.css** | - Provável uso<br>- Compatível com Vue (via npm)<br>- Animações de estilização interessantes<br>- Baseada em **CSS**, não JS<br>- Pode ser controlada via lógica JS aplicando classes<br>- Documentação simples e direta | [animate.style](https://animate.style/) | Pode ser útil junto |
 

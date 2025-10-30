@@ -29,6 +29,20 @@ Fonte principal: [Pixabay Sound Effects](https://pixabay.com/sound-effects/)
 
 ---
 
+## 🎵 Notas Musicais
+Fonte: **Notas geradas matematicamente (sine wave, equalizadas, livres de direitos autorais)**
+
+### 🔔 Notas
+- [C4 — Dó](/sounds/Musical-notes)
+- [D4 — Ré](/sounds/Musical-notes)
+- [E4 — Mi](/sounds/Musical-notes)
+- [F4 — Fá](/sounds/Musical-notes)
+- [G4 — Sol](/sounds/Musical-notes)
+- [A4 — Lá](/sounds/Musical-notes)
+- [B4 — Si](/sounds/Musical-notes)
+
+---
+
 ## ✨🌀 Animações
 
 | Biblioteca  | Descrição | Site | Escolha |
